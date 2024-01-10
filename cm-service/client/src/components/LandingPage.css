@@ -1,0 +1,22 @@
+/* LandingPage.css */
+.landing-page {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  p {
+    margin: 10px 0;
+    color: #666;
+  }
+  
+  /* You can add more styles as needed */
+  
